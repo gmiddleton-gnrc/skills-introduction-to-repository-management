@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @gmiddleton-gnrc
+/src/backend/database.py      @gmiddleton-gnrc
+/src/backend/routers/auth.py  @gmiddleton-gnrc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @gmiddleton-gnrc
